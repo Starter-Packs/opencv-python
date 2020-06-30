@@ -9,7 +9,7 @@ print(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 #print(cap.get(3))
 #print(cap.get(4))
 while(cap.isOpened()):
-    ret, frame = cap.read()
+    ret, frame = cap.read( )
     if ret == True:
 
        font = cv2.FONT_HERSHEY_SIMPLEX
