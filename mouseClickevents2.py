@@ -1,3 +1,5 @@
+# this code snippet will allow us to join two or more images to form lines
+
 import numpy as np
 import cv2
 
