@@ -1,3 +1,5 @@
+# this code demontrates bit wise operations in opencv for black and white images
+
 import cv2
 import numpy as np
 
