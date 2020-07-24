@@ -32,4 +32,4 @@ while(1):
        img[:] = [b, g, r]
 
 
-cv.destroyAllWindows()
+ cv.destroyAllWindows()
