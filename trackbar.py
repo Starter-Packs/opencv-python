@@ -1,10 +1,12 @@
+# this code helps to make a track bar which can be set to a on off position and can change the color by changing the rgb value
+
 import numpy as np
 import cv2 as cv
 
 def nothing(x):
     print(x)
 
-# Create a black image, a window
+
 img = np.zeros((300,512,3), np.uint8)
 cv.namedWindow('image')
 
@@ -32,4 +34,4 @@ while(1):
        img[:] = [b, g, r]
 
 
- cv.destroyAllWindows()
+cv.destroyAllWindows()
