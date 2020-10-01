@@ -19,6 +19,10 @@ This file has code snippets for drawing common geometric figures and inserting t
  
  this piece of code will allow you to join two or more images
  
+ [ 4.Track Bar](https://github.com/abhinav-TB/opencv-python/blob/master/trackbar.py)
+ 
+ this code helps to make a track bar which can be set to a on off position and can change the color by changing the rgb value
+ 
  
 
 
