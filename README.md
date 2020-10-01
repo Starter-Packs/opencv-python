@@ -17,8 +17,7 @@ This file has code snippets for drawing common geometric figures and inserting t
  
  [ 3.join images](https://github.com/abhinav-TB/opencv-python/blob/master/mouseClickevents2.py)
  
- this piece of code will allow you to merge two or more images
- 
+ this piece of code will allow you to join two or more images
  
  
 
