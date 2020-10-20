@@ -1,4 +1,7 @@
-# cv2.imshow('bitOr', bitOr)
-# cv2.imshow('bitXor', bitXor)
-# cv2.imshow('bitNot1', bitNot1)
-# cv2.imshow('bitNot2', bitNot2)
+img = cv2.imread('./data/lena.jpg')
+cv2.imshow('image', img)
+
+cv2.setMouseCallback('image', click_event)
+
+cv2.waitKey(0)
+cv2.destroyAllWindows()
